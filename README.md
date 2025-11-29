@@ -52,9 +52,6 @@ text
 - Change the background colors, button styles, or layout in `style.css`.[web:2]
 - Replace remote MP3 URLs with your own local audio files (and update `src` paths).[web:21]
 
-## License
-
-Specify your preferred license (for example, MIT) and include a `LICENSE` file in the repository.[web:32]
 
 2 # Simple Web Calculator
 
@@ -108,9 +105,6 @@ It supports basic arithmetic operations, clear and backspace actions, and keyboa
 - Add advanced operations (like square root or exponent) by adding new buttons and extending `Result()` logic.[web:34]
 - Improve error handling or input validation as needed.[web:23]
 
-## License
-
-Add your preferred license (for example, MIT License) and include a `LICENSE` file in the repository.[web:32]
 
 3. Filterable Image Gallery
 # Filterable Image Gallery with Preview
@@ -190,6 +184,3 @@ text
 - Extend the preview with captions, descriptions, or download links if needed.[web:35]
 - Optionally add keyboard controls (arrow keys to navigate, Esc to close) in `script.js`.[web:36]
 
-## License
-
-Choose and document a license (such as MIT) and include a `LICENSE` file.[web:32]
